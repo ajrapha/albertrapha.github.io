@@ -9,18 +9,20 @@
 
 <style>
 
-*{
+* {
 margin:0;
 padding:0;
 box-sizing:border-box;
-font-family: "Segoe UI", sans-serif;
+font-family:"Segoe UI",sans-serif;
 }
 
-body{
+body {
 background:#f8f9fb;
 color:#333;
 line-height:1.6;
 }
+
+/* HEADER */
 
 header{
 background:white;
@@ -61,6 +63,8 @@ nav ul li a:hover{
 color:#0077ff;
 }
 
+/* HERO */
+
 .hero{
 height:85vh;
 display:flex;
@@ -82,6 +86,8 @@ margin:auto;
 color:#555;
 }
 
+/* SECTIONS */
+
 .section{
 padding:70px 12%;
 }
@@ -91,6 +97,8 @@ margin-bottom:20px;
 font-size:30px;
 }
 
+/* CARDS */
+
 .card{
 background:white;
 padding:25px;
@@ -99,9 +107,25 @@ border-radius:10px;
 box-shadow:0 4px 10px rgba(0,0,0,0.05);
 }
 
+.card h3{
+margin-bottom:5px;
+}
+
+.card span{
+color:#666;
+font-size:14px;
+}
+
 ul{
+margin-top:10px;
 margin-left:20px;
 }
+
+li{
+margin-bottom:6px;
+}
+
+/* FOOTER */
 
 footer{
 text-align:center;
@@ -118,7 +142,6 @@ color:#777;
 <body>
 
 <header>
-
 <nav>
 
 <div class="logo">Albert Rapha</div>
@@ -134,8 +157,10 @@ color:#777;
 </ul>
 
 </nav>
-
 </header>
+
+
+<!-- HERO -->
 
 <section class="hero">
 
@@ -151,6 +176,9 @@ Policy professional specialising in digital policy and data-driven policymaking 
 
 </section>
 
+
+<!-- ABOUT -->
+
 <section id="about" class="section">
 
 <h2>About</h2>
@@ -158,87 +186,72 @@ Policy professional specialising in digital policy and data-driven policymaking 
 <div class="card">
 
 <p>
-Albert is a policy professional with experience contributing to digital policy and data-driven policymaking at a multilateral organisation and think tanks. He has worked and liaised with multiple government counterparts across the globe, including Southeast Asia, the European Union, and Latin America.
+Albert is a policy professional with experience contributing to digital policy and data-driven policymaking at multilateral organisations and think tanks. He has worked with government counterparts across Southeast Asia, the European Union, and Latin America.
 </p>
 
 <p>
-He is trained in mixed-methods data analytics with extensive experience using Python, R, and Atlas.ti. His experience working and living in Indonesia, France, and Germany, as well as studying in Belgium and Germany, has equipped him to integrate seamlessly and collaborate effectively in multicultural and international settings.
+He is trained in mixed-methods data analytics with extensive experience using Python, R, and Atlas.ti. His experience working and living in Indonesia, France, and Germany, as well as studying in Belgium and Germany, has equipped him to collaborate effectively in multicultural and international environments.
 </p>
 
 </div>
 
 </section>
+
+
+<!-- EDUCATION -->
 
 <section id="education" class="section">
 
 <h2>Education</h2>
 
 <div class="card">
-
-<strong>Katholieke Universiteit Leuven – Belgium</strong><br>
-MSc Public Sector Innovation and E-Governance (2023 – 2025)<br>
-
+<h3>Katholieke Universiteit Leuven</h3>
+<span>Belgium | MSc Public Sector Innovation & E-Governance (2023–2025)</span>
 </div>
 
 <div class="card">
-
-<strong>University of Münster – Germany</strong><br>
-Summer Semester - Wirtschaftinformatik (Business Informatics) (2024)<br><br>
-
+<h3>University of Münster</h3>
+<span>Germany | Summer Semester – Business Informatics (2024)</span>
 </div>
 
 <div class="card">
-
-<strong>Diponegoro University – Indonesia</strong><br>
-Bachelor of Public Administration (2017 – 2022)<br>
-
+<h3>Diponegoro University</h3>
+<span>Indonesia | Bachelor of Public Administration (2017–2022)</span>
 </div>
 
 </section>
+
+
+<!-- EXPERIENCE -->
 
 <section id="experience" class="section">
 
 <h2>Professional Experience</h2>
 
 <div class="card">
-
-<strong>OECD – Consultant on digital government</strong> (2025 – present)<br>
-
-<ul>
-
+<h3>OECD</h3>
+<span>Consultant on Digital Government | 2025 – Present</span>
 </div>
 
 <div class="card">
-
-<strong>OECD – Policy Analysis and Advise</strong> (2024 – 2025)
-
-<ul>
-
-</ul>
-
+<h3>OECD</h3>
+<span>Policy Analyst Intern | 2024 – 2025</span>
 </div>
 
 <div class="card">
-
-<strong>German Institute for Global and Area Studies (GIGA)</strong> – Student Research Assistant (2024)
-
-<ul>
-
-</ul>
-
+<h3>German Institute for Global and Area Studies (GIGA)</h3>
+<span>Student Research Assistant | 2024</span>
 </div>
 
 <div class="card">
-
-<strong>Centre for Strategic and International Studies (CSIS) Indonesia</strong> – Research Intern (2021 – 2022)
-
-<ul>
-
-</ul>
-
+<h3>Centre for Strategic and International Studies (CSIS) Indonesia</h3>
+<span>Research Intern | 2021 – 2022</span>
 </div>
 
 </section>
+
+
+<!-- PUBLICATIONS -->
 
 <section id="publications" class="section">
 
@@ -247,22 +260,19 @@ Bachelor of Public Administration (2017 – 2022)<br>
 <div class="card">
 
 <ul>
-
 <li>OECD (2026). Digital Government Index and Open, Useful and Re-usable Data Index: 2025 Results and Key Findings.</li>
-
 <li>OECD (2025). Government at a Glance 2025.</li>
-
 <li>OECD / ADB (2025). Government at a Glance Southeast Asia 2025.</li>
-
 <li>Albert Rapha (2024). Charting the Future of Southeast Asian AI Governance – East Asia Forum.</li>
-
 <li>Albert Rapha (2024). The Importance of Interoperability for ASEAN’s Digital Economy Framework Agreement – The Diplomat.</li>
-
 </ul>
 
 </div>
 
 </section>
+
+
+<!-- SKILLS -->
 
 <section id="skills" class="section">
 
@@ -270,7 +280,7 @@ Bachelor of Public Administration (2017 – 2022)<br>
 
 <div class="card">
 
-<strong>Soft Skills</strong>
+<h3>Soft Skills</h3>
 
 <ul>
 <li>Analytical thinking</li>
@@ -280,9 +290,7 @@ Bachelor of Public Administration (2017 – 2022)<br>
 <li>Public speaking</li>
 </ul>
 
-<br>
-
-<strong>Programming</strong>
+<h3>Programming</h3>
 
 <ul>
 <li>Atlas.ti (Advanced)</li>
@@ -292,9 +300,7 @@ Bachelor of Public Administration (2017 – 2022)<br>
 <li>SQL (Basic)</li>
 </ul>
 
-<br>
-
-<strong>Languages</strong>
+<h3>Languages</h3>
 
 <ul>
 <li>Indonesian – Native</li>
@@ -307,25 +313,29 @@ Bachelor of Public Administration (2017 – 2022)<br>
 
 </section>
 
+
+<!-- LEADERSHIP -->
+
 <section id="leadership" class="section">
 
 <h2>Leadership</h2>
 
 <div class="card">
 
-<strong>President – Student Executive Body, Faculty of Social and Political Sciences, Diponegoro University</strong> (2020 – 2021)
-
-<strong>Head of Student Activism - Student Executive Body, Diponegoro University</strong> (2019 - 2021)
-
-<strong>Staff of Political Affairs - Student Executive Body, Faculty of Social and Political Sciences, Diponegoro University</strong> (2018 - 2019)
+<h3>Student Executive Body – Diponegoro University</h3>
 
 <ul>
-
+<li>President, Faculty of Social and Political Sciences (2020–2021)</li>
+<li>Head of Student Activism (2019–2021)</li>
+<li>Staff of Political Affairs (2018–2019)</li>
 </ul>
 
 </div>
 
 </section>
+
+
+<!-- CONTACT -->
 
 <section id="contact" class="section">
 
@@ -333,12 +343,13 @@ Bachelor of Public Administration (2017 – 2022)<br>
 
 <div class="card">
 
-Email: albertjehoshua@email.com<br>
-LinkedIn: add-your-link<br>
+<p>Email: albertjehoshua@email.com</p>
+<p>LinkedIn: add-your-link</p>
 
 </div>
 
 </section>
+
 
 <footer>
 
