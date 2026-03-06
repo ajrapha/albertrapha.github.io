@@ -5,7 +5,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Albert Rapha | Policy Professional</title>
+<title>Albert Rapha | Policy Professional & Data Analyst</title>
 
 <style>
 
@@ -177,20 +177,13 @@ He is trained in mixed-methods data analytics with extensive experience using Py
 
 <strong>Katholieke Universiteit Leuven – Belgium</strong><br>
 MSc Public Sector Innovation and E-Governance (2023 – 2025)<br>
-Magna Cum Laude (79.30% / 16/20) – Erasmus+ Scholarship<br><br>
-
-Coursework: Digital Public Governance, Public Innovation, European Policies & Public Administration, Business Information Systems<br><br>
-
-Master’s Thesis: Navigating the Trilemma of Sustainable AI: Evidence from Germany
 
 </div>
 
 <div class="card">
 
 <strong>University of Münster – Germany</strong><br>
-Summer Semester (2024)<br><br>
-
-Coursework: Information Systems Application, Information System Theories, Platforms and Digital Service Ecosystems, Digital Work and Project Management
+Summer Semester - Wirtschaftinformatik (Business Informatics) (2024)<br><br>
 
 </div>
 
@@ -198,8 +191,6 @@ Coursework: Information Systems Application, Information System Theories, Platfo
 
 <strong>Diponegoro University – Indonesia</strong><br>
 Bachelor of Public Administration (2017 – 2022)<br>
-Major: Public Policy | Minor: Political Science<br>
-GPA: 3.74 / 4.00 – Magna Cum Laude
 
 </div>
 
@@ -211,37 +202,17 @@ GPA: 3.74 / 4.00 – Magna Cum Laude
 
 <div class="card">
 
-<strong>OECD – Short-term External Consultant</strong> (2025 – 2026)<br>
+<strong>OECD – Consultant on digital government</strong> (2025 – present)<br>
 
 <ul>
-
-<li>Liaised with 8 OECD member states to collect data for the Digital Government Index 2025.</li>
-
-<li>Worked on the OECD flagship report Digital Government Index 2025.</li>
-
-<li>Contributed to a chapter on human-centered digital public services for OECD Digital Government Outlook.</li>
-
-<li>Worked on digital governance analysis for Slovenia’s digital policy scan.</li>
-
-</ul>
 
 </div>
 
 <div class="card">
 
-<strong>OECD – Policy Analyst Intern</strong> (2024 – 2025)
+<strong>OECD – Policy Analysis and Advise</strong> (2024 – 2025)
 
 <ul>
-
-<li>Liaised with Southeast Asian government counterparts for Government at a Glance Southeast Asia 2025.</li>
-
-<li>Supported the OECD Digital Government Capacity Building initiative for Indonesia’s Ministry of Administrative Reform.</li>
-
-<li>Co-authored sections on Digital Government Index and Digital Public Infrastructure in Government at a Glance 2025.</li>
-
-<li>Co-authored multiple sub-chapters on digital government and AI in the public sector.</li>
-
-<li>Conducted data cleaning and analysis across OECD member states.</li>
 
 </ul>
 
@@ -253,8 +224,6 @@ GPA: 3.74 / 4.00 – Magna Cum Laude
 
 <ul>
 
-<li>Worked on research on disinformation and anti-fake news laws in South and Southeast Asia using mixed-methods analysis.</li>
-
 </ul>
 
 </div>
@@ -264,10 +233,6 @@ GPA: 3.74 / 4.00 – Magna Cum Laude
 <strong>Centre for Strategic and International Studies (CSIS) Indonesia</strong> – Research Intern (2021 – 2022)
 
 <ul>
-
-<li>Supported research on political economy, democratic governance, and digitalisation.</li>
-
-<li>Worked on preliminary research on Indonesia’s National Data Centre policy.</li>
 
 </ul>
 
@@ -317,17 +282,6 @@ GPA: 3.74 / 4.00 – Magna Cum Laude
 
 <br>
 
-<strong>Research Skills</strong>
-
-<ul>
-<li>Qualitative methods</li>
-<li>Quantitative methods</li>
-<li>Mixed-methods research</li>
-<li>Data science</li>
-</ul>
-
-<br>
-
 <strong>Programming</strong>
 
 <ul>
@@ -361,15 +315,11 @@ GPA: 3.74 / 4.00 – Magna Cum Laude
 
 <strong>President – Student Executive Body, Faculty of Social and Political Sciences, Diponegoro University</strong> (2020 – 2021)
 
+<strong>Head of Student Activism - Student Executive Body, Diponegoro University</strong> (2019 - 2021)
+
+<strong>Staff of Political Affairs - Student Executive Body, Faculty of Social and Political Sciences, Diponegoro University</strong> (2018 - 2019)
+
 <ul>
-
-<li>Led 109 internal members and coordinated 3,000+ students.</li>
-
-<li>Initiated an international dialogue with the University of Malaya discussing ASEAN Vision 2020.</li>
-
-<li>Designed the first five-year strategic plan for the student organisation (SOPGs 2020-2024).</li>
-
-<li>Launched the FISIP Alumni Scholarship raising 135 million rupiahs for student tuition support.</li>
 
 </ul>
 
@@ -383,9 +333,8 @@ GPA: 3.74 / 4.00 – Magna Cum Laude
 
 <div class="card">
 
-Email: your@email.com<br>
+Email: albertjehoshua@email.com<br>
 LinkedIn: add-your-link<br>
-GitHub: add-your-github
 
 </div>
 
